@@ -1,2 +1,2 @@
-# Hello-World
-My very first project on Github.
+# Introduction about myself.
+A student majoring in Electronics. Actively looking for opportunities right now :)
